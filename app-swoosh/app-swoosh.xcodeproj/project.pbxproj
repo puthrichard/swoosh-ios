@@ -24,6 +24,7 @@
 		D14327441F56593F00AFEE39 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D14327461F56593F00AFEE39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D143276B1F56608D00AFEE39 /* BorderButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BorderButton.swift; sourceTree = "<group>"; };
+		D143276D1F56643800AFEE39 /* UI */ = {isa = PBXFileReference; lastKnownFileType = folder; path = UI; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		D143272E1F56593F00AFEE39 = {
 			isa = PBXGroup;
 			children = (
+				D143276D1F56643800AFEE39 /* UI */,
 				D14327391F56593F00AFEE39 /* app-swoosh */,
 				D14327381F56593F00AFEE39 /* Products */,
 			);
